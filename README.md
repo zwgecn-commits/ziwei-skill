@@ -2,9 +2,11 @@
 
 > 排盘引擎见姊妹仓库 [zwgecn-commits/ziwei-chart](https://github.com/zwgecn-commits/ziwei-chart)；分析管线见 [zwgecn-commits/ziwei-pipeline](https://github.com/zwgecn-commits/ziwei-pipeline)。本仓库为其配套的**「知识层」**——一套面向 AI Agent 的紫微斗数结构化技法底座。
 
-**v7.6** · 主文档 `SKILL.md` + 11 份参考文档（`references/`）。
+**v7.7** · 主文档 `SKILL.md` + 11 份参考文档（`references/`）。
 
 > **v7.6 是本仓库首个「不含第三方课程逐字转录正文」的版本**：参考文档均以工程化整理文本收录（其中 3 件改写自转录源）。详见 [NOTICE.md · 第二节](./NOTICE.md)。
+
+> **v7.7 为措辞规范修订**：全件绝对断言降级（对齐输出守则）· 清除风水话术与外体系残留 · 新增「结构层与应对层」读象铁律与 K·降级/双向/降维输出守则。知识结构与断语范围不变。
 
 ## 这是什么
 
